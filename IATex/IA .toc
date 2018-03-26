@@ -6,4 +6,4 @@
 \beamer@sectionintoc {5}{Les R\IeC {\'e}alit\IeC {\'e}s}{15}{0}{5}
 \beamer@sectionintoc {6}{Les Promesses}{18}{0}{6}
 \beamer@sectionintoc {7}{Les Dangers}{20}{0}{7}
-\beamer@sectionintoc {8}{Annexes}{33}{0}{8}
+\beamer@sectionintoc {8}{Annexes}{32}{0}{8}

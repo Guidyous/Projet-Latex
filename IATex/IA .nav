@@ -81,21 +81,19 @@
 \headcommand {\beamer@framepages {30}{30}}
 \headcommand {\slideentry {7}{0}{12}{31/31}{}{0}}
 \headcommand {\beamer@framepages {31}{31}}
-\headcommand {\slideentry {7}{0}{13}{32/32}{}{0}}
+\headcommand {\sectionentry {8}{Annexes}{32}{Annexes}{0}}
+\headcommand {\beamer@sectionpages {20}{31}}
+\headcommand {\beamer@subsectionpages {20}{31}}
+\headcommand {\slideentry {8}{0}{1}{32/32}{}{0}}
 \headcommand {\beamer@framepages {32}{32}}
-\headcommand {\sectionentry {8}{Annexes}{33}{Annexes}{0}}
-\headcommand {\beamer@sectionpages {20}{32}}
-\headcommand {\beamer@subsectionpages {20}{32}}
-\headcommand {\slideentry {8}{0}{1}{33/33}{}{0}}
+\headcommand {\slideentry {8}{0}{2}{33/33}{}{0}}
 \headcommand {\beamer@framepages {33}{33}}
-\headcommand {\slideentry {8}{0}{2}{34/34}{}{0}}
+\headcommand {\slideentry {8}{0}{3}{34/34}{}{0}}
 \headcommand {\beamer@framepages {34}{34}}
-\headcommand {\slideentry {8}{0}{3}{35/35}{}{0}}
+\headcommand {\slideentry {8}{0}{4}{35/35}{}{0}}
 \headcommand {\beamer@framepages {35}{35}}
-\headcommand {\slideentry {8}{0}{4}{36/36}{}{0}}
-\headcommand {\beamer@framepages {36}{36}}
-\headcommand {\beamer@partpages {1}{36}}
-\headcommand {\beamer@subsectionpages {33}{36}}
-\headcommand {\beamer@sectionpages {33}{36}}
-\headcommand {\beamer@documentpages {36}}
-\headcommand {\def \inserttotalframenumber {36}}
+\headcommand {\beamer@partpages {1}{35}}
+\headcommand {\beamer@subsectionpages {32}{35}}
+\headcommand {\beamer@sectionpages {32}{35}}
+\headcommand {\beamer@documentpages {35}}
+\headcommand {\def \inserttotalframenumber {35}}
