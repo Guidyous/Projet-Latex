@@ -1,3 +1,11 @@
 \frametitle{Les Dangers de l'Intelligence Artificielle}
-	DRONE
-	\centerline{\includegraphics[height=6cm]{drone.png}}
+	\framesubtitle{Robots, Humanoïdes}
+	\begin{block}{Robots, Humanoïdes}
+	\begin{itemize}
+	\itemsep1em
+		\item
+		\item
+		\item
+		\item
+	\end{itemize}
+	\end{block}
