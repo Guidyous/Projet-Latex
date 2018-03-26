@@ -1,1 +1,9 @@
 \select@language {french}
+\beamer@sectionintoc {1}{D\IeC {\'e}finitions IA}{4}{0}{1}
+\beamer@sectionintoc {2}{Types IA}{6}{0}{2}
+\beamer@sectionintoc {3}{Histoire de l'IA}{7}{0}{3}
+\beamer@sectionintoc {4}{\IeC {\'E}volution de l'IA}{11}{0}{4}
+\beamer@sectionintoc {5}{Les R\IeC {\'e}alit\IeC {\'e}s}{16}{0}{5}
+\beamer@sectionintoc {6}{Les Promesses}{19}{0}{6}
+\beamer@sectionintoc {7}{Les Dangers}{20}{0}{7}
+\beamer@sectionintoc {8}{Annexes}{33}{0}{8}
