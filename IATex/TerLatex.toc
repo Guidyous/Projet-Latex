@@ -1,6 +1,0 @@
-\select@language {french}
-\contentsline {section}{\numberline {1}Organisation du Projet}{3}
-\contentsline {section}{\numberline {2}Une seconde section}{3}
-\contentsline {section}{\numberline {3}Une section}{3}
-\contentsline {section}{\numberline {4}Une seconde section}{3}
-\contentsline {section}{\numberline {5}Conclusion}{3}

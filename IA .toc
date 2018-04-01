@@ -1,0 +1,10 @@
+\select@language {french}
+\beamer@sectionintoc {1}{D\IeC {\'e}finitions IA}{3}{0}{1}
+\beamer@sectionintoc {2}{Types IA}{5}{0}{2}
+\beamer@sectionintoc {3}{Histoire de l'IA}{6}{0}{3}
+\beamer@sectionintoc {4}{\IeC {\'E}volution de l'IA}{10}{0}{4}
+\beamer@sectionintoc {5}{Turing et ses aboutissants}{15}{0}{5}
+\beamer@sectionintoc {6}{Les R\IeC {\'e}alit\IeC {\'e}s}{28}{0}{6}
+\beamer@sectionintoc {7}{Les Promesses}{31}{0}{7}
+\beamer@sectionintoc {8}{Les Dangers}{33}{0}{8}
+\beamer@sectionintoc {9}{Annexes}{45}{0}{9}
